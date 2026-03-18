@@ -3,13 +3,6 @@
 # Damai Puti Afifah
 ### <samp>Information Systems Student | App & Web Developer</samp>
 
----
-
-<a href="LINK_LINKEDIN_ANDA"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:EMAIL_ANDA@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
-
 ### Tech Stack & Tools
 
 <img src="https://img.shields.io/badge/React_Native-FFB6C1?style=flat-square&logo=react&logoColor=white" /> 
