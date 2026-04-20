@@ -8,7 +8,7 @@
 
 ---
 
-<a href="www.linkedin.com/in/damai-puti-afifah-0415051a4"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" /></a>
+<a href="https://www.linkedin.com/in/damai-puti-afifah-0415051a4"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF69B4" /></a>
 <a href="mailto:damaiputi04@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF69B4" /></a>
 <a href="https://instagram.com/qdamai"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF69B4" /></a>
 
