@@ -41,9 +41,6 @@
 
 ---
 
-### **📊 Language Usage Profile**
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdamai&layout=compact&theme=rose_pine&title_color=FFB6C1&text_color=FFC0CB&icon_color=FFB6C1&border_color=FFB6C1&langs_count=7" />
 
 <br/>
 
